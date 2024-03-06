@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+    margin-top: 50px;
+  }
+  
+  .time
+  {
+    background-image: url("https://images7.alphacoders.com/133/1338126.png");
+  }
+  h2 {
+    color:white;
+    margin-top:100px;
+    text-decoration: 2px overline brown;
+    font-style: italic;    
+  }
+
+  .welcome
+  {
+    background-image: url("https://wallpapers.com/images/hd/prismatic-blank-gradient-gjp4xbqcs7yw6wa1.jpg");
+  }
+
+  .time2
+  {
+    border-radius:80px;
+    border:2px solid black;
+  }
+
+  span{
+    color:white;
+    font-style: italic;
+    font-weight: 600;
+  }
